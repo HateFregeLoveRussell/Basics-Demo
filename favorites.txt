@@ -1,3 +1,9 @@
+== Favorite Foods ==
 Pizza
 Cucumber&Onion Salad
 Fried Chicken
+== Favorite Movies ==
+Taxi Driver
+The Thing
+Dr Strangelove
+
